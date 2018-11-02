@@ -17,32 +17,28 @@ stop_word = 'Stopword'
 
 this text wont be copied
 
-Startword  bla bla bla 
+°Startword  bla bla bla 
 
 This text will be copied including the bla'blas above^.
 
-Stopword:
+°Stopword:
 this text wont be copied
 
-</n>
-<b>note:</b>
+<br>
+<br>
+<b>note:</b><br>
 to add more words tags add the coinciding if and while loop, as well as the column headers of the capturing DataFrame. 
-</n>
+<br>
+<br>
+<br>
+<b>Required Modules:</b><br>
 
-Required Modules: </n>
-
-os</n>
-
-pandasdocx</n>
-
-re</n>
-
-docx</n>
-
-xlsxwriter</n>
-
-
-</n>
-</n>
+os<br>
+pandasdocx<br>
+re <br> 
+docx <br> 
+xlsxwriter <br> 
+<br>
+<br>
 
 #whosawme
