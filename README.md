@@ -6,12 +6,14 @@ The body of text between the start and stop words will comprise of each column i
 Configure your start and stop words identifying the body of text for each column at the top of the script, as well as the columns of your output file. 
 
 <h3>Example:</h3>
+<h5>if:</h5>
+  
 start_word = 'Headline' 
 
 stop_word = 'Lessons'
 
 
-<u>Word doc sample:</u>
+<b> Word doc sample: </b>
 
 bla bla bla
 Headline  > bla bla bla bla
