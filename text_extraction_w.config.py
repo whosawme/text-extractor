@@ -34,9 +34,6 @@ conditional_word_4a= 'Annex'
 ##----- CONFIGURATION END -----##
 
 strPath = os.getcwd()
-# strPath = 'Z:\\1. Micro Evaluation\\VELOCITY\\paragraph_predict\\XPSR\\test\\test2\\wrong'
-# doc = docx.AdvSearch()
-
 translist = list()
 
 ### --- Directory Crawl --- ###
