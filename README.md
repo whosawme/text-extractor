@@ -8,20 +8,20 @@ Configure your start and stop words identifying the body of text for each column
 <h3>Example:</h3>
 <h5>if:</h5>
   
-start_word = 'Headline' 
+start_word = 'Startword' 
 
-stop_word = 'Lessons'
+stop_word = 'Stopword'
 
 
 <b> Word doc sample: </b>
 
-bla bla bla
-Headline  > bla bla bla bla
+this text wont be copied
 
-This text will be copied including the bla'blas above^
-and will end here>.
+Startword  bla bla bla 
 
-Lessons:
+This text will be copied including the bla'blas above^.
+
+Stopword:
 this text wont be copied
 
 
