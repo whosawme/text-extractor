@@ -13,7 +13,7 @@ start_word = 'Startword'
 stop_word = 'Stopword'
 
 
-<b> Word doc sample: </b>
+<b> then in Word doc sample: </b>
 
 this text wont be copied
 
