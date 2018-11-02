@@ -24,19 +24,19 @@ This text will be copied including the bla'blas above^.
 Stopword:
 this text wont be copied
 
-
-
+<\n>
+<b>note</b>
 to add more words tags add the coinciding if and while loop, as well as the column headers of the capturing DataFrame. 
+</n>
 
+Required Modules:</n>
+os</n>
+pandasdocx</n>
+re</n>
+docx</n>
+xlsxwriter</n>
 
-Required Modules:
-os
-pandasdocx
-re
-docx
-xlsxwriter
-
-
-
+</n>
+</n>
 
 #whosawme
